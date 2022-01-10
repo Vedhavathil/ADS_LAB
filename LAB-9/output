@@ -1,0 +1,12 @@
+Enter the number of elements you want inside the Binomial Heap: 	5
+Enter 5 elements :
+1 :	20
+2 :	2
+3 :	32
+4 :	1
+5 :	7
+Heap elements after insertion:
+7 1 2 20 32 
+Minimum element of heap 1
+Heap after deletion of minimum element
+2 7 32 20 
