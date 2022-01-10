@@ -1,0 +1,61 @@
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 1
+Enter element to be inserted: 20
+Enter key at which element to be inserted: 1
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 1
+Enter element to be inserted: 10
+Enter key at which element to be inserted: 2
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 1
+Enter element to be inserted: 11
+Enter key at which element to be inserted: 2
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 2
+Enter key of the element to be searched: 11
+No element found at key 11
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 2
+Enter key of the element to be searched: 2
+Element at key 2 : 11
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 2
+Enter key of the element to be searched: 1
+Element at key 1 : 20
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 3
+Enter key of the element to be deleted: 10  20  10
+No Element found at key 10
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 1 3
+Enter key of the element to be deleted: 1
+Element Deleted
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 
