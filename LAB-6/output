@@ -1,0 +1,13 @@
+Enter the degree of B-Tree 	3
+Enter how many keys you want to insert in B-Tree 	10
+Enter 1 th number 	10
+Enter 2 th number 	2
+Enter 3 th number 	43
+Enter 4 th number 	7
+Enter 5 th number 	54
+Enter 6 th number 	8
+Enter 7 th number 	42
+Enter 8 th number 	22
+Enter 9 th number 	75
+Enter 10 th number 	25
+The B-tree is >>>  2 7 8 10 22 25 42 43 54 75
